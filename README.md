@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Bahram</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">👋 Hi there, and welcome to my GitHub!</h1>
+<h3 align="center">Over the years, I've worked on various projects, but due to the confidentiality policies of the companies I collaborated with, I wasn't allowed to publish the source code of those projects publicly.
+
+What you'll find here are my personal projects and experiments—things I've worked on in my own time and am excited to share.
+
+If you're curious about my work or want to know more, feel free to reach out. I'm always open to conversations, collaboration, and learning opportunities!
+
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
